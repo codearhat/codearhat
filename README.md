@@ -8,7 +8,7 @@ I'm a full-stack developer with over 20 years experience in system and web devel
 
 My tech stack:
 
-- C/C++, [Java](https://openjdk.org/)/[Kotlin](https://kotlinlang.org/), [Python](https://www.python.org/), SQL, [Bash](https://www.gnu.org/software/bash/), [Golang](https://go.dev/), [Dart](https://dart.dev/), Common Lisp([SBCL](https://www.sbcl.org/)).
+- C/C++, Common Lisp([SBCL](https://www.sbcl.org/)), [Java](https://openjdk.org/)/[Kotlin](https://kotlinlang.org/), [Python](https://www.python.org/), [Golang](https://go.dev/), [Dart](https://dart.dev/),  [Bash](https://www.gnu.org/software/bash/).
 - [Node.js](https://nodejs.org/en/), [TypeScript](https://www.typescriptlang.org/), [Vue](https://cn.vuejs.org/), [Naive UI](https://www.naiveui.com/).
 - [Ubuntu](https://ubuntu.com/), [PostgreSQL](https://www.postgresql.org/), [Sqlite](https://www.sqlite.org/index.html), [Redis](https://redis.io/), [Docker](https://www.docker.com/), [Kubernetes](https://kubernetes.io/).
 
