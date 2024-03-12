@@ -2,13 +2,12 @@
 
 I'm a full-stack developer with over 20 years experience in system and web development.
 
-- 👀 I’m interested in C++, Algorithms, HPC in STEM fields.
-- 🌱 I’m currently learning CAGD, CUDA, algorithm contest.
-- 📫 How to reach me: codearhat@gmail.com
+- interests: CAGD, Computational Chemistry, Quantum Physics, Algorithm Contest.
+- email: codearhat@gmail.com
 
 My tech stack:
 
-- C/C++, Common Lisp([SBCL](https://www.sbcl.org/)), [Java](https://openjdk.org/)/[Kotlin](https://kotlinlang.org/), [Python](https://www.python.org/).
+- C++, [Python](https://www.python.org/), [Java](https://openjdk.org/)/[Kotlin](https://kotlinlang.org/), Common Lisp([SBCL](https://www.sbcl.org/)).
 - [Node.js](https://nodejs.org/en/), [TypeScript](https://www.typescriptlang.org/), [Vue](https://cn.vuejs.org/), [Naive UI](https://www.naiveui.com/).
 - [Ubuntu](https://ubuntu.com/), [PostgreSQL](https://www.postgresql.org/), [Sqlite](https://www.sqlite.org/index.html), [Redis](https://redis.io/), [Docker](https://www.docker.com/), [Kubernetes](https://kubernetes.io/).
 
